@@ -1,0 +1,95 @@
+{
+  "login": [
+    {
+      "UserName": "Aadhya",
+      "password": "Aadhya@123",
+      "Role": "student",
+      "EmailId": "Aadhya@gmail.com"
+    },
+    {
+      "UserName": "Rakshan",
+      "password": "Rakshan@123",
+      "Role": "admin",
+      "EmailId": "Rakshan@gmail.com"
+    }
+  ],
+  "studentdetails": [
+    {
+      "id": 1,
+      "username": "surya",
+      "emailid": "surya@gmail.com",
+      "password": "12345",
+      "reenterpassword": "12345",
+      "role": "student"
+    },
+    {
+      "username": "indhu",
+      "emailid": "indu@gmail.com",
+      "password": "1234",
+      "reenterpassword": "1234",
+      "role": "student",
+      "id": 2
+    },
+    {
+      "username": "aruna",
+      "emailid": "aruna@gmail.com",
+      "password": "123456",
+      "reenterpassword": "123456",
+      "role": "student",
+      "id": 3
+    },
+    {
+      "username": "sneha",
+      "emailid": "sneha@gmail.com",
+      "password": "12345",
+      "reenterpassword": "12345",
+      "role": "student",
+      "id": 4
+    },
+    {
+      "username": "pradeep",
+      "emailid": "pradeep@gmail.com",
+      "password": "12345",
+      "reenterpassword": "123456",
+      "role": "student",
+      "id": 5
+    }
+  ],
+  "listofstudents": [
+    {
+      "name": "pinky",
+      "standard": "6th",
+      "section": "b",
+      "phoneno": "7993182694",
+      "id": 2
+    },
+    {
+      "name": "karthik",
+      "standard": "4th",
+      "section": "b",
+      "phoneno": "7993182694",
+      "id": 3
+    },
+    {
+      "name": "Tharun",
+      "standard": "10th",
+      "section": "a",
+      "phoneno": "7989732197",
+      "id": 5
+    },
+    {
+      "name": "Naveen",
+      "standard": "9th",
+      "section": "a",
+      "phoneno": "7993182695",
+      "id": 6
+    },
+    {
+      "name": "Manisha",
+      "standard": "9th",
+      "section": "a",
+      "phoneno": "7993182695",
+      "id": 7
+    }
+  ]
+}
