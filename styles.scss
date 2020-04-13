@@ -1,0 +1,33 @@
+/* You can add global styles to this file, and also import other style files */
+@import url("../node_modules/bootstrap/dist/css/bootstrap.css");
+// body{
+//      background-image: url("C:/angular/Studentdetails/images/image22.jfif");
+//      background-size: cover;
+//      background-position: center;
+//      width: 50;
+//    };
+   
+    table,th,td,tr{
+     border:1px solid black;
+     font-size: 15px;
+     padding: 5px;
+     width:800px;
+     
+}
+
+//  form,label,input{
+    
+//      font-size: 20px;
+//     padding: 10px;
+//  }
+//  input{
+//      margin-top:10px ;
+//  }
+// a{
+//    color: blue;
+//    font-size: 30px;
+// }
+// a:hover{
+//     cursor: pointer;
+//     color: blue;
+// }
